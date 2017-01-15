@@ -18,12 +18,12 @@
       {
         "network": "github",
         "username": "jerry1100",
-        "url": "http://github.com/jerry1100"
+        "url": "https://github.com/jerry1100"
       },
       {
         "network": "linkedin",
         "username": "jerry1100",
-        "url": "http://linkedin.com/in/jerry1100"
+        "url": "https://linkedin.com/in/jerry1100"
       }
     ]
   },
@@ -72,21 +72,21 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (Expected May 2017)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.89",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "University of Hawaii at Manoa",
+      "position": "Teaching Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "Jan. 2017",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [

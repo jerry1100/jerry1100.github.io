@@ -74,7 +74,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Engineering (Expected May 2017)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01", // TODO change this
+      "startDate": "2013-09-01", // TODO change this to just month
       "endDate": "Present",
       "gpa": "3.89",
       "courses": [
@@ -161,7 +161,7 @@
   ],
   "references": [
     {
-      "name": "Available upon request",
+      "name": "",
       "reference": ""
     }
   ]

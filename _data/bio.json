@@ -2,7 +2,7 @@
   "basics": {
     "name": "Jerry Wu",
     "label": "Student",
-    "picture": "https://jerry1100.github.io/images/jerry_wu.png",
+    "picture": "https://jerry1100.github.io/images/jerry_wu.jpg",
     "email": "jwu1100@gmail.com",
     "phone": "",
     "website": "https://jerry1100.github.io",
@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "Embedded systems",
+      "name": "embedded systems",
       "keywords": [
       ]
     },

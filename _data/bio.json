@@ -1,172 +1,172 @@
 {
-  "basics": {
-    "name": "Jerry Wu",
-    "label": "Student",
-    "picture": "https://jerry1100.github.io/images/jerry_wu.jpg",
-    "email": "jwu1100@gmail.com",
-    "phone": "",
-    "website": "https://jerry1100.github.io",
-    "summary": "I am a computer engineering student at the University of Hawaii at Manoa. I expect to graduate in May 2017.",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+    "basics": {
+        "name": "Jerry Wu",
+        "label": "Student",
+        "picture": "https://jerry1100.github.io/images/jerry_wu.jpg",
+        "email": "jwu1100@gmail.com",
+        "phone": "",
+        "website": "https://jerry1100.github.io",
+        "summary": "I am a computer engineering student at the University of Hawaii at Manoa. I expect to graduate in May 2017.",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Honolulu",
+            "countryCode": "USA",
+            "region": "Hawaii"
+        },
+        "profiles": [
+            {
+                "network": "github",
+                "username": "jerry1100",
+                "url": "https://github.com/jerry1100"
+            },
+            {
+                "network": "linkedin",
+                "username": "jerry1100",
+                "url": "https://linkedin.com/in/jerry1100"
+            }
+        ]
     },
-    "profiles": [
-      {
-        "network": "github",
-        "username": "jerry1100",
-        "url": "https://github.com/jerry1100"
-      },
-      {
-        "network": "linkedin",
-        "username": "jerry1100",
-        "url": "https://linkedin.com/in/jerry1100"
-      }
+    "interests": [
+        {
+            "name": "embedded systems",
+            "keywords": [
+            ]
+        },
+        {
+            "name": "mobile development",
+            "keywords": [
+            ]
+        },
+        {
+            "name": "internet of things",
+            "keywords": [
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "Languages and Frameworks",
+            "level": "",
+            "keywords": [
+                "C",
+                "C++",
+                "Java",
+                "Python",
+                "MATLAB",
+                "HTML",
+                "PHP",
+                "JavaScript",
+                "SQL"
+            ]
+        },
+        {
+            "name": "Tools",
+            "level": "",
+            "keywords": [
+                "Git",
+                "Linux",
+                "Vim",
+                "Android Studio",
+                "Arduino IDE",
+                "IntelliJ IDEA"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University of Hawaii, Honolulu, HI",
+            "area": "Computer Engineering (Expected May 2017)",
+            "studyType": "B.S.",
+            "startDate": "2013-09-01", // TODO change this to just month
+            "endDate": "Present",
+            "gpa": "3.89",
+            "courses": [
+            ]
+        }
+    ],
+    "work": [
+        {
+            "company": "University of Hawaii at Manoa",
+            "position": "Teaching Assistant",
+            "website": "",
+            "startDate": "2017-01-01", // TODO update this
+            "endDate": "Present",
+            "summary": "",
+            "highlights": [
+                "Teaching assistant for an introduction to programming class using C"
+            ]
+        },
+        {
+            "company": "Booz Allen Hamilton",
+            "position": "Summer Intern",
+            "website": "",
+            "startDate": "2016-06-01", // TODO update
+            "endDate": "2016-08-01", // TODO update
+            "summary": "",
+            "highlights": [
+                "Integrated blockchain technology with mesh networks to create a distributed supply chain with applications in reducing logistical costs for disaster-relief organizations",
+                "Assisted with developing a proof of concept in Java; implemented proof of work algorithm"
+            ]
+        },
+        {
+            "company": "Advanced Micro Devices",
+            "position": "Co-op Engineer",
+            "website": "",
+            "startDate": "2016-01-01", // TODO update
+            "endDate": "2016-05-01", // TODO update
+            "summary": "",
+            "highlights": [
+                "Product development engineering – scan team; tested die and collected shmoo plots; performed timing optimizations to reduce the time and cost of validating a unit",
+                "Developed a database viewer and uploader for .csv files using HTML, JavaScript, PHP, and SQL; implemented error checking on upload, significantly reducing the risk of bad data"
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "",
+            "website": "",
+            "position": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": "",
+            "highlights": [
+                "",
+                ""
+            ]
+        },
+        {
+            "organization": "",
+            "website": "",
+            "position": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": "",
+            "highlights": [
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "date": "",
+            "awarder": "",
+            "summary": ""
+        },
+        {
+            "title": "",
+            "date": "",
+            "awarder": "",
+            "summary": ""
+        }
+    ],
+    "references": [
+        {
+            "name": "",
+            "reference": ""
+        }
     ]
-  },
-  "interests": [
-    {
-      "name": "embedded systems",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "mobile development",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "internet of things",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Python",
-        "MATLAB",
-        "HTML",
-        "PHP",
-        "JavaScript",
-        "SQL"
-      ]
-    },
-    {
-      "name": "Tools",
-      "level": "",
-      "keywords": [
-        "Git",
-        "Linux",
-        "Vim",
-        "Android Studio",
-        "Arduino IDE",
-        "IntelliJ IDEA"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (Expected May 2017)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01", // TODO change this to just month
-      "endDate": "Present",
-      "gpa": "3.89",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "University of Hawaii at Manoa",
-      "position": "Teaching Assistant",
-      "website": "",
-      "startDate": "2017-01-01", // TODO update this
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Teaching assistant for an introduction to programming class using C"
-      ]
-    },
-    {
-      "company": "Booz Allen Hamilton",
-      "position": "Summer Intern",
-      "website": "",
-      "startDate": "2016-06-01", // TODO update
-      "endDate": "2016-08-01", // TODO update
-      "summary": "",
-      "highlights": [
-        "Integrated blockchain technology with mesh networks to create a distributed supply chain with applications in reducing logistical costs for disaster-relief organizations",
-        "Assisted with developing a proof of concept in Java; implemented proof of work algorithm"
-      ]
-    },
-    {
-      "company": "Advanced Micro Devices",
-      "position": "Co-op Engineer",
-      "website": "",
-      "startDate": "2016-01-01", // TODO update
-      "endDate": "2016-05-01", // TODO update
-      "summary": "",
-      "highlights": [
-        "Product development engineering – scan team; tested die and collected shmoo plots; performed timing optimizations to reduce the time and cost of validating a unit",
-        "Developed a database viewer and uploader for .csv files using HTML, JavaScript, PHP, and SQL; implemented error checking on upload, significantly reducing the risk of bad data"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
-  ],
-  "references": [
-    {
-      "name": "",
-      "reference": ""
-    }
-  ]
 }

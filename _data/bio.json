@@ -74,7 +74,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Engineering (Expected May 2017)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2013-09-01", // TODO change this
       "endDate": "Present",
       "gpa": "3.89",
       "courses": [
@@ -86,24 +86,35 @@
       "company": "University of Hawaii at Manoa",
       "position": "Teaching Assistant",
       "website": "",
-      "startDate": "Jan. 2017",
+      "startDate": "2017-01-01", // TODO update this
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Teaching assistant for an introduction to programming class using C"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Booz Allen Hamilton",
+      "position": "Summer Intern",
+      "website": "",
+      "startDate": "2016-06-01", // TODO update
+      "endDate": "2016-08-01", // TODO update
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Integrated blockchain technology with mesh networks to create a distributed supply chain with applications in reducing logistical costs for disaster-relief organizations",
+        "Assisted with developing a proof of concept in Java; implemented proof of work algorithm"
+      ]
+    },
+    {
+      "company": "Advanced Micro Devices",
+      "position": "Co-op Engineer",
+      "website": "",
+      "startDate": "2016-01-01", // TODO update
+      "endDate": "2016-05-01", // TODO update
+      "summary": "",
+      "highlights": [
+        "Product development engineering – scan team; tested die and collected shmoo plots; performed timing optimizations to reduce the time and cost of validating a unit",
+        "Developed a database viewer and uploader for .csv files using HTML, JavaScript, PHP, and SQL; implemented error checking on upload, significantly reducing the risk of bad data"
       ]
     }
   ],

@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jerry Wu",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://jerry1100.github.io/images/jerry_wu.png",
+    "email": "jwu1100@gmail.com",
+    "phone": "",
+    "website": "https://jerry1100.github.io",
+    "summary": "I am a computer engineering student at the University of Hawai'i at Manoa. I expect to graduate in May 2017.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,41 +17,29 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "jerry1100",
+        "url": "http://github.com/jerry1100"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "jerry1100",
+        "url": "http://linkedin.com/in/jerry1100"
       }
     ]
   },
   "interests": [
     {
+      "name": "Embedded systems",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "mobile development",
+      "keywords": [
+      ]
+    },
+    {
       "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
       "keywords": [
       ]
     }

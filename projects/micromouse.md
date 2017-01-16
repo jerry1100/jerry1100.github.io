@@ -4,7 +4,7 @@ type: project
 image: images/micromouse.jpg
 title: Micromouse
 permalink: projects/micromouse
-date: "Jan. 2016 - May 2016"
+date: 2016
 labels:
   - Embedded C
   - Circuit Design

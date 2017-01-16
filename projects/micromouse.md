@@ -4,11 +4,10 @@ type: project
 image: images/micromouse.jpg
 title: Micromouse
 permalink: projects/micromouse
-date: 2015
+date: Jan. 2016 - May 2016
 labels:
-  - Robotics
-  - Arduino
-  - C++
+  - Embedded C
+  - Circuit Design
 summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
 ---
 

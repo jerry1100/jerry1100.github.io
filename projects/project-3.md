@@ -4,7 +4,7 @@ type: project
 image: images/cotton-square.png
 title: Cotton
 permalink: projects/cotton
-date: 08-2016-Present
+date: May2015-June2015
 labels:
   - Lisp
   - GitHub

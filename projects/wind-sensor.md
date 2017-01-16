@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/wind-sensor.png
+title: Wind Sensor
 permalink: projects/vacay
-date: 2015
+date: 2017
 labels:
   - Javascript
   - Meteor

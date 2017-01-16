@@ -1,13 +1,13 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/gpsend.png
+title: GPSend
+permalink: projects/gpsend
 date: 2016
 labels:
-  - Lisp
-  - GitHub
+  - Android
+  - Java
 summary: A text adventure game I developed for ICS 313.
 ---
 

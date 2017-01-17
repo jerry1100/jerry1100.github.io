@@ -6,9 +6,10 @@ title: Micromouse
 permalink: projects/micromouse
 date: 2015
 labels:
-  - Embedded C
+  - C
+  - Embedded Systems
   - Circuit Design
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: For our sophomore engineering project, our team designed, built, and programmed a robot that can autonomously navigate its way to the center of a maze in ~1 minute. We finished 3rd place out of 13 teams and 1st place out of sophomores.
 ---
 
 <div class="ui small rounded images">

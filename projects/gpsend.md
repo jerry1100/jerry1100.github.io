@@ -6,9 +6,10 @@ title: GPSend
 permalink: projects/gpsend
 date: 2016
 labels:
+  - Mobile App
   - Android
   - Java
-summary: A text adventure game I developed for ICS 313.
+summary: For our junior engineering project, our team developed an Android app that makes it easy to share your GPS location in as few as 3 clicks. It can also be set to respond to requests by automatically sending your location when given a specific keyword.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">

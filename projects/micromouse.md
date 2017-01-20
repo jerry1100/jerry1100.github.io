@@ -9,7 +9,7 @@ labels:
   - C
   - Embedded Systems
   - Circuit Design
-summary: For our sophomore engineering project, our team designed, built, and programmed a robot that can autonomously navigate its way to the center of a maze in ~1 minute. We finished 3rd place out of 13 teams and 1st place out of sophomores.
+summary: For our sophomore engineering project, our team designed, built, and programmed a robot that can autonomously navigate its way to the center of a maze in ~1 minute. We finished 3rd out of 13 teams and 1st out of sophomores.
 ---
 
 <div class="ui small rounded images">

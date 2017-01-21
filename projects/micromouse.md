@@ -13,16 +13,17 @@ summary: For our sophomore engineering project, our team designed, built, and pr
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/micromouse-banner.jpg">
 </div>
 
-# Introduction
+## Introduction
 Micromouse is an internationally recognized competition where robot "mice" race to solve a 16x16 cell maze in the shortest time possible. Events are held worldwide and at varying levels. At the very top is the international competition where the mice go so fast that it becomes a task just to keep up with their movement (imagine <5 second solves). Unfortunately, our mouse was not fast enough to compete at this level. Instead, it competed at the collegiate level with mice from other [IEEE Region 6 schools](http://ieee-region6.org/).
 
-# Project Overview
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+# Rules
+Although the rules may differ slightly depending on the region and level of competition, the basic rules are:
+- The mouse must navigate the maze autonomously, meaning there must be no help from the contestant.
+- The time for a run starts when the mouse leaves the start cell and stops when the mouse enters the center. Upon reaching the center, the mouse must return back to the start cell in order to perform another run.
+- Contestants may perform as many runs as he/she can fit within a certain time limit (typically 10 minutes).
+- If contestants touch the mouse before it makes it back to the start cell, then a penalty shall be assessed (typically an additional 30 seconds to the best run time).
 
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).

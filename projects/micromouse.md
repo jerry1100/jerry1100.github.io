@@ -18,7 +18,8 @@ summary: For our sophomore engineering project, our team designed, built, and pr
 Micromouse is an internationally recognized competition where robot "mice" race to solve a 16x16 cell maze in the shortest time possible. Events are held worldwide and at varying levels. At the very top is the international competition where the mice go so fast that it becomes a task just to keep up with their movement (imagine <6 second solves). Unfortunately, our mouse was not fast enough to compete at this level. Instead, it competed at the collegiate level with mice from other [IEEE Region 6 schools](http://ieee-region6.org/).
 
 ## Rules
-Although the rules may differ slightly depending on the region and level of competition, below are the basic rules.
+Although the rules may differ slightly depending on the region and level of competition, here are the basics:
+
 0. The mouse must navigate the maze autonomously, meaning there must be no help from the contestant.
 0. The time for a run starts when the mouse leaves the start cell and stops when the mouse enters the center. Upon reaching the center, the mouse must return back to the start cell in order to perform another run.
 0. Contestants may perform as many runs as he/she can fit within a certain time limit (typically 10 minutes).

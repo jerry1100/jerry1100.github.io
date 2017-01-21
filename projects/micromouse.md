@@ -31,6 +31,7 @@ I took on this project with three of my classmates as our sophomore engineering 
 
 ## The Looks
 <img class="ui image" src="../images/micromouse-banner.jpg">
+
 It all started when my partner Creighton ordered these huge red wheels with black tires. They didn't match the color scheme of our mouse, which was then just stock parts put together, so I decided it would be a good idea to spray paint everything to give it some flare. Now, if I had known how much work was involved with making it look the way it does, I might've reconsiderd. However, the waking up at 30-minute intervals at 4 AM to apply layers of paint on the circuit board, motors, and even the screws, really did pay off (at least in my head).
 
 ## My Experience
@@ -38,6 +39,7 @@ If I could name one project as being the most influential, it would be Micromous
 
 ## The Underglow
 Before I left for Texas in 2016, I wanted to install some underglow on the bottom. We had some RGB LED strips leftover from another project and I saw the opportunity. The RGB LED strip had a GND pin and three power pins, one for each color (red, green, blue). However, the only problem was the power pins required 12V when our board only supplied 5V and 3.3V. However, with some careful maneuvers, I was able to solder on a 12V voltage regulator to power the RGB strip and the result is epic. It looks even better in the dark.
+
 <img class="ui image" src="../images/micromouse-underglow.jpg">
 
 ## Videos

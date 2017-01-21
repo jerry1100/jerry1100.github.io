@@ -87,7 +87,7 @@
       "company": "University of Hawaii at Manoa",
       "position": "Teaching Assistant",
       "website": "",
-      "startDate": "2017-01-01",
+      "startDate": "2017-01",
       "endDate": "Present",
       "summary": "",
       "highlights": [
@@ -98,8 +98,8 @@
       "company": "Booz Allen Hamilton",
       "position": "Summer Intern",
       "website": "",
-      "startDate": "2016-06-01",
-      "endDate": "2016-08-01",
+      "startDate": "2016-06",
+      "endDate": "2016-08",
       "summary": "",
       "highlights": [
         "Integrated blockchain technology with mesh networks to create a distributed supply chain with applications in reducing logistical costs for disaster-relief organizations",
@@ -110,8 +110,8 @@
       "company": "Advanced Micro Devices",
       "position": "Co-op Engineer",
       "website": "",
-      "startDate": "2016-01-01",
-      "endDate": "2016-05-01",
+      "startDate": "2016-01",
+      "endDate": "2016-05",
       "summary": "",
       "highlights": [
         "Product development engineering – scan team; tested die and collected shmoo plots; performed timing optimizations to reduce the time and cost of validating a unit",
@@ -124,46 +124,25 @@
       "organization": "Eta Kappa Nu",
       "website": "http://hknhawaii.weebly.com/",
       "position": "Webmaster & Social Chair",
-      "startDate": "2016",
+      "startDate": "2016-08",
       "endDate": "Present",
-      "summary": "",
+      "summary": "HKN is the honor society for electrical and computer engineers",
       "highlights": [
-        "",
-        ""
+        "Maintain the HKN website with up-to-date information, create event pages to showcase events, and share event pages on chapter's Facebook page",
+        "Assist in the planning of various chapter activities"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Center for Tomorrow's Leaders",
+      "website": "http://centerfortomorrowsleaders.org/",
+      "position": "Volunteer",
+      "startDate": "2013-06",
+      "endDate": "Present",
+      "summary": "CTL is a leadership program for Hawaii high school students",
       "highlights": [
-        "",
-        "",
-        ""
+        "Processed data from surveys and created charts to display the data",
+        "Assisted with the planning of various events"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
-  ],
-  "references": [
-    {
-      "name": "",
-      "reference": ""
     }
   ]
 }

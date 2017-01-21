@@ -12,7 +12,7 @@ labels:
 summary: For our sophomore engineering project, our team designed, built, and programmed a robot that can autonomously navigate its way to the center of a maze in ~1 minute. We finished 3rd out of 13 teams and 1st out of sophomores.
 ---
 
-<img class="ui image" src="../images/micromouse-banner.jpg">
+<img class="ui image" src="../images/micromouse-maze.jpg">
 
 ## Introduction
 Micromouse is an internationally recognized competition where robot "mice" race to solve a 16x16 cell maze in the shortest time possible. Events are held worldwide and at varying levels. At the very top is the international competition where the mice go so fast that it becomes a task just to keep up with their movement (imagine <5 second solves). Unfortunately, our mouse was not fast enough to compete at this level. Instead, it competed at the collegiate level with mice from other [IEEE Region 6 schools](http://ieee-region6.org/).
@@ -29,7 +29,7 @@ You can read the full rules at the [Micromouse USA website](http://micromouseusa
 I took on this project with three of my classmates as our sophomore engineering design project. When deciding how we were going to split up the roles, we split our team into halves, the hardware half and the software half. I was the lead for the software half and so my responsibilities was to work with my other software teammate to write drivers for the various components for the mouse. This included stepping the stepper motors, displaying the LEDs, and the overall maze solving algorithm. Aside from the technical role, I was also chosen (because no one else wanted to) to be the overall team lead. My responsibilities for the team lead was to coordinate team meetings and be the main point of contact between our team and our project advisor.
 
 ## The Looks
-<img class="ui image" src="../images/micromouse-maze.jpg">
+<img class="ui image" src="../images/micromouse-banner.jpg">
 It all started when my partner Creighton ordered these huge red wheels with black tires. They didn't match the color scheme of our mouse, which was then just stock parts put together, so I decided it would be a good idea to spray paint everything to give it some flare. Now, if I had known how much work was involved with making it look the way it does, I might've reconsiderd. However, the waking up at 30-minute intervals at 4 AM to apply layers of paint on the circuit board, motors, and even the screws, really did pay off (at least in my head).
 
 ## My Experience

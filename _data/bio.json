@@ -71,7 +71,16 @@
     }
   ],
   "education": [
-
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Engineering (expected May 2017)",
+      "studyType": "B.S.",
+      "startDate": "Aug. 2013",
+      "endDate": "Present",
+      "gpa": "3.89",
+      "courses": [
+      ]
+    }
   ],
   "work": [
     {
@@ -112,11 +121,11 @@
   ],
   "volunteer": [
     {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
+      "organization": "Eta Kappa Nu",
+      "website": "http://hknhawaii.weebly.com/",
+      "position": "Webmaster & Social Chair",
+      "startDate": "2016",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
         "",

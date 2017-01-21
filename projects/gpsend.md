@@ -12,7 +12,7 @@ labels:
 summary: For our junior engineering project, our team developed an Android app that makes it easy to share your GPS location in as few as 3 clicks. It can also be set to respond to requests by automatically sending your location when given a specific keyword.
 ---
 
-<img class="ui medium right floated image" src="../images/gpsend-homescreen.png">
+<img class="ui small right floated image" src="../images/gpsend-homescreen.png">
 
 ## Introduction
 GPSend is a location sharing application that is based off of SMS. It offers two main features: on-demand location sharing and on-request location sharing. On-demand location sharing allows users to select multiple contacts and easily share their location with those contacts. On-request location sharing is a background service that automatically sends the user’s location to someone who requests for it using a specific keyword.

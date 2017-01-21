@@ -3,7 +3,8 @@ layout: project
 type: project
 image: images/wind-sensor.png
 title: Wind Sensor
-permalink: https://wiki.scel-hawaii.org/doku.php?id=wind_sensor:start
+permalink: projects/wind-sensor
+projecturl: https://wiki.scel-hawaii.org/doku.php?id=wind_sensor:start
 date: 2016
 labels:
   - Arduino

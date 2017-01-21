@@ -15,7 +15,7 @@ summary: For our sophomore engineering project, our team designed, built, and pr
 <img class="ui image" src="../images/micromouse-maze.jpg">
 
 ## Introduction
-Micromouse is an internationally recognized competition where robot "mice" race to solve a 16x16 cell maze in the shortest time possible. Events are held worldwide and at varying levels. At the very top is the international competition where the mice go so fast that it becomes a task just to keep up with their movement (imagine <5 second solves). Unfortunately, our mouse was not fast enough to compete at this level. Instead, it competed at the collegiate level with mice from other [IEEE Region 6 schools](http://ieee-region6.org/).
+Micromouse is an internationally recognized competition where robot "mice" race to solve a 16x16 cell maze in the shortest time possible. Events are held worldwide and at varying levels. At the very top is the international competition where the mice go so fast that it becomes a task just to keep up with their movement (imagine <6 second solves). Unfortunately, our mouse was not fast enough to compete at this level. Instead, it competed at the collegiate level with mice from other [IEEE Region 6 schools](http://ieee-region6.org/).
 
 ## Rules
 Although the rules may differ slightly depending on the region and level of competition, the basic rules are:
@@ -36,8 +36,8 @@ It all started when my partner Creighton ordered these huge red wheels with blac
 If I could name one project as being the most influential, it would be Micromouse. This is true as of Jan. 2017 and I think it will remain true for a good amount of time longer. Micromouse was my very first technical project and I learned a ton from it. Skills such as embedded programming, circuit design, soldering, were just some of the things that I took away from this project. I think what's more important is how rewarding it was to see all our hard work and sleepless nights pay off.
 
 ## The Underglow
+Before I left for Texas in 2016, I wanted to install some underglow on the bottom. We had some RGB LED strips leftover from another project and I saw the opportunity. The RGB LED strip had a GND pin and three power pins, one for each color (red, green, blue). However, the only problem was the power pins required 12V when our board only supplied 5V and 3.3V. However, with some careful maneuvers, I was able to solder on a 12V voltage regulator to power the RGB strip and the result is epic. It looks even better in the dark.
 <img class="ui image" src="../images/micromouse-underglow.jpg">
-Before I left for Texas in 2016, I wanted to install some underglow on the bottom. We had some RGB LED strips leftover from another project and I saw the opportunity. The RGB LED strip had a GND pin and three power pins, one for each color (red, green, blue). However, the only problem was the power pins required 12V when our board only supplied 5V and 3.3V. However, with some careful maneuvers, I was able to solder on a 12V voltage regulator to power the RGB strip and the result is epic.
 
 ## Videos
 If you want to see our mouse in action, you can check out [my YouTube playlist](https://www.youtube.com/watch?v=hF58yFzQRJ8&list=PL9FNoqJdsAE-hACMQq3EWkxfHnZDU13_g).

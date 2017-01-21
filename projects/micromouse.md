@@ -32,7 +32,7 @@ I took on this project with three of my classmates as our sophomore engineering 
 ## The Looks
 <img class="ui image" src="../images/micromouse-banner.jpg">
 
-It all started when my partner Creighton ordered these huge red wheels with black tires. They didn't match the color scheme of our mouse, which was then just stock parts put together, so I decided it would be a good idea to spray paint everything to give it some flare. Now, if I had known how much work was involved with making it look the way it does, I might've reconsiderd. However, the waking up at 30-minute intervals at 4 AM to apply layers of paint on the circuit board, motors, and even the screws, really did pay off (at least in my head).
+It all started when my partner Creighton ordered these huge red wheels with black tires. They didn't match the color scheme of our mouse, which was then just stock parts put together, so I decided it would be a good idea to spray paint everything to give it some flare. Now, if I had known how much work was involved with making it look the way it does, I might've reconsidered. However, the waking up at 30-minute intervals at 4 AM to apply layers of paint on the circuit board, motors, and even the screws, really did pay off (at least in my head).
 
 ## My Experience
 If I could name one project as being the most influential, it would be Micromouse. This is true as of Jan. 2017 and I think it will remain true for a good amount of time longer. Micromouse was my very first technical project and I learned a ton from it. Skills such as embedded programming, circuit design, soldering, were just some of the things that I took away from this project. I think what's more important is how rewarding it was to see all our hard work and sleepless nights pay off.

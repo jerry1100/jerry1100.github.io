@@ -19,7 +19,7 @@ Let me preface this next section by saying that I have nothing against framework
 
 <img class="ui image" src="../images/homer-simpson-many-choices.png">
 
-Actually, there is this really [great article on Hackernoon.com](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.4gto39so7) that really sums up exactly how I feel. I definitely recommend you give it a read.
+Actually, there is this [great article on Hackernoon.com](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.4gto39so7) that really sums up exactly how I feel. I definitely recommend you give it a read.
 
 ## My Overall Impression
 Overall, I there is a time and place for everything. For me, I just want to make simple and fun web applications which I can achieve using regular vanilla JavaScript and jQuery. I think JavaScript is a good language and I'm definitely looking forward to learning more about it in ICS 314.

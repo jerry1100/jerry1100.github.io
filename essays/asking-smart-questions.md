@@ -34,7 +34,7 @@ Hint: it's a bad one. According to the article, there are several things wrong w
 0. The title is very ambiguous
 0. The post is a homework problem
 0. The problem statement is very unclear
-0. Post has several mispellings
+0. Post has several misspellings
 0. Attached code as a picture rather than text
 
 Asking questions in this manner will significantly lower the chances of getting a good response. As mentioned in the article, it may even trigger some sarcastic and condescending responses. Now here is a good question, note the difference.
@@ -47,4 +47,7 @@ Here are some of the things about this post:
 0. It is very clear what the question is
 0. Includes references to a source
 
-Just the first two reasons make this a good post and judging by the question's rating, a lot of people seem to agree.
+It is very easy to see what exactly the poster is asking and readers can immediately understand the problem. This significantly increases the chance of a good response to this question.
+
+## The takeaway
+Simply put, the first step to asking a question should be to first ask Google.

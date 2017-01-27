@@ -24,5 +24,8 @@ The rules for asking questions on an online forum (yes there are rules) can diff
 
 All that being said, there is a good read on [how to ask questions the smart way](http://www.catb.org/esr/faqs/smart-questions.html) that will discuss some of the intricacies of asking questions on the web and specifically, StackOverflow.
 
-<img class="ui image" src="../images/good-stack-overflow-question.png">
+## An example of a bad question
 <img class="ui image" src="../images/bad-stack-overflow-question.png">
+
+## An example of a good question
+<img class="ui image" src="../images/good-stack-overflow-question.png">

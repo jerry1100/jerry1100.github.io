@@ -8,7 +8,7 @@ labels:
   - Languages
 ---
 
-## Previous Experience
+### Previous Experience
 Lucky to say, ICS 314 isn't the first time I've laid eyes on JavaScript. It was actually during my co-op tour with AMD that I was tasked to design a web tool and had to learn JavaScript using mostly Google-fu and coding tutorials, but more on that later. Anyway, JavaScript is a language and arguably, the language for the web. Since I'm a computer engineering major, I haven't had any previous exposure to JavaScript from school, so that co-op was really the first time I've seen and used it. So now the question is, what do I think of it?
 
 ## What I Like

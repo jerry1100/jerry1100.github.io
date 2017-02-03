@@ -5,7 +5,6 @@ title: JavaScript Reflection
 date: 2017-01-20
 labels:
   - JavaScript
-  - Languages
 ---
 
 ## Previous experience

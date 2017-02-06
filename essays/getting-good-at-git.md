@@ -7,7 +7,7 @@ labels:
   - Git
 ---
 
-<img class="ui image" src="../images/github-collaboration.png">
+<img class="ui medium right floated image" src="../images/github-collaboration.png">
 
 ## My life before Git
 Before I was introduced to Git, I had never heard of "version control" nor did I understand what it meant (though in hindsight, the name kind of gives it away). That being said however, I did have a method for managing my file revisions. It was called making a copy of a file I wanted to edit, editing the copy, then either overwriting the original or if I messed up, deleting the copy and starting over. You probably have used this method as well.

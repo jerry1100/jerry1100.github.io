@@ -18,7 +18,7 @@ USB is used for a lot of different things. We use it to charge our phones, to co
 ## My thoughts on coding standards
 Let me just start off by saying, standards are a **must**. I'm pretty big on coding style and I've probably invested more hours researching about good coding style than I'd care to admit. Let's just say, I've spent *a lot* of time going through StackOverflow posts and reading people's responses to questions like: [Brackets or no brackets with if-else statements?](http://stackoverflow.com/questions/2125066/is-it-bad-practice-to-use-an-if-statement-without-brackets)
 
-```c
+```javascript
 // Without brackets
 if (condition)
   stuff;
@@ -33,11 +33,11 @@ if (condition) {
 }
 ```
 
-In case you were wondering, I think the example with brackets is better. That was a good question don't you think? I had to think long and hard about that one because I used to write my if-else statements without brackets, but then I realized the error of my ways. In case you're wondering why you'd want to explicitly use brackets, even though you don't need to, it's because sometimes you'll add in another line of code after your initial "stuff" without checking to see if it's actually a part of the if-else statement.
+In case you were wondering, I think the example with brackets is better. I had to think long and hard about that question because I used to write my if-else statements without brackets. However, I read in the comments that writing if-else statements without brackets could lead to bugs in the code, I made the change. In case you're wondering why you'd want to explicitly use brackets even though you don't need to, it's because sometimes you'll add in another line of code after your initial "stuff" without checking to see if it's actually a part of the if-else statement.
 
-Here's another great question to think about: [Should I use spaces after if-else statements?](http://stackoverflow.com/questions/4368055/coding-style-advice-rationales-for-placing-spaces-in-control-statements-with-c)
+Here's another interesting question (IMO) to think about: [Should I use spaces after if-else statements?](http://stackoverflow.com/questions/4368055/coding-style-advice-rationales-for-placing-spaces-in-control-statements-with-c)
 
-```c
+```javascript
 // No space
 if(condition){
   stuff;
@@ -53,4 +53,4 @@ if (condition) {
 }
 ```
 
-I think the second one with spaces is better. I hope you see the importance in questions like the above two.
+I think the second one with spaces is better. I know that some of you will feel that questions like these are a waste of time and that I should be focused more on the quality of my code rather than how it looks, but I'd argue that good-looking code *is* a necessary condition of quality code. Try writing code "your way" and request for it to be added to a project like the Linux kernel, Linus would not be happy with you. That's not to say that you're a bad programmer, but in large software projects, there is a *huge* emphasis on coding standards. That being said, you have to make sure your code is compliant with *the standards*, even if it means not following *your standards*.

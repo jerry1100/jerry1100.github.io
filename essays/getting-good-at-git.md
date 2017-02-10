@@ -5,6 +5,7 @@ title: Getting Good at Git
 date: 2017-02-02
 labels:
   - Git
+  - Software Engineering
 ---
 
 <img class="ui medium right floated image" src="../images/github-collaboration.png">

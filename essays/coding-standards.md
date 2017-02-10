@@ -11,7 +11,7 @@ labels:
 ## The necessity of standards 
 Standards exist for a reason. They provide consistency and allow for different things to work together. Take this iconic standard known as USB (short for Universal Serial Bus). It's one of the most widely used standards today.
 
-<img class="ui medium right floated image" src="../images/usb-port.jpg">
+<img class="ui medium image" src="../images/usb-port.jpg">
 
 ## What I like
 I started learning JavaScript off of Codecademy and the syntax was pretty similar to some other programming languages that I've used (Python and C). I'd say it was a pretty friendly language to learn and I could see why it was the most popular language. What I really loved about JavaScript was the idea that anyone with a browser could see my projects without having to download or install anything. This gave me a lot of ideas for potential web applications to build. So JavaScript is relatively easy to learn, is the most popular language, and can build cool web applications that run on browsers. What's not to like?

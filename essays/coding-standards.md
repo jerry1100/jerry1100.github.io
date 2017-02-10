@@ -53,4 +53,4 @@ if (condition) {
 }
 ```
 
-I think the second one with spaces is better. I hope you see the importance in questions like the above two. Now, before you start accusing me of caring about how my code looks more than what it does, let me say this: you're *half* right.
+I think the second one with spaces is better. I hope you see the importance in questions like the above two.

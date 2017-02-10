@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Coding Standards
+title: The Necessity of Standards
 date: 2017-02-09
 labels:
   - Coding Standards

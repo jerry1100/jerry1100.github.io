@@ -9,21 +9,48 @@ labels:
 ---
 
 ## The necessity of standards 
-Standards exist for a reason. They provide consistency and allow for different things to work together. Take this iconic standard known as USB (short for Universal Serial Bus). It's one of the most widely used standards today.
+Standards exist for a reason. They provide consistency and allow for different things to work together. Take this iconic connector known as USB (short for Universal Serial Bus). It's one of the most widely used connectors today. Behind this connector, is a USB standard that all USB-compliant devices must uphold.
 
 <img class="ui medium image" src="../images/usb-port.jpg">
 
-## What I like
-I started learning JavaScript off of Codecademy and the syntax was pretty similar to some other programming languages that I've used (Python and C). I'd say it was a pretty friendly language to learn and I could see why it was the most popular language. What I really loved about JavaScript was the idea that anyone with a browser could see my projects without having to download or install anything. This gave me a lot of ideas for potential web applications to build. So JavaScript is relatively easy to learn, is the most popular language, and can build cool web applications that run on browsers. What's not to like?
+USB is used for a lot of different things. We use it to charge our phones, to connect things to our laptops, and probably for a billion other things. That being said, can you imagine how disastrous it would be if *some* devices decided to use a different standard behind the same connector? Yeah, it would be complete chaos. That's why standards exist, and that's why all devices with USB ports must be compliant with the USB standard.
 
-## What I dislike
-Let me preface this next section by saying that I have nothing against frameworks. I know each framework is (hopefully) good for something and that there's a reason to their existence, but my only gripe is that there are so many of them. I'm a person who doesn't fare well when given a lot of options, so knowing that there are all these libraries out there and people are saying to use them, is a bit overwhelming.
+## My thoughts on coding standards
+Let me just start off by saying, standards are a **must**. I'm pretty big on coding style and I've probably invested more hours researching about good coding style than I'd care to admit. Let's just say, I've spent *a lot* of time going through StackOverflow posts and reading people's responses to questions like: [Brackets or no brackets with if-else statements?](http://stackoverflow.com/questions/2125066/is-it-bad-practice-to-use-an-if-statement-without-brackets)
 
+```c
+// Without brackets
+if (condition)
+  stuff;
+else 
+  other stuff;
 
-Actually, there is this [great article on Hackernoon.com](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.4gto39so7) that really sums up exactly how I feel. I definitely recommend you give it a read.
+// With brackets
+if (condition) {
+  stuff;
+} else {
+  other stuff;
+}
+```
 
-## My overall impression
-Overall, I there is a time and place for everything. For me, I just want to make simple and fun web applications which I can achieve using regular vanilla JavaScript and jQuery. I think JavaScript is a good language and I'm definitely looking forward to learning more about it in ICS 314.
+In case you were wondering, I think the example with brackets is better. That was a good question don't you think? I had to think long and hard about that one because I used to write my if-else statements without brackets, but then I realized the error of my ways. In case you're wondering why you'd want to explicitly use brackets, even though you don't need to, it's because sometimes you'll add in another line of code after your initial "stuff" without checking to see if it's actually a part of the if-else statement.
 
-## Thoughts on WODs
-For those of you who aren't familiar with WODs, they stand for Workout of The Day. This is a part of the concept of [athletic programming](http://philipmjohnson.org/essays/athletic-software-engineering.html). The idea is that we do short programming problems and must try to finish under a certain amount of time, improving our programming skills and problem solving. My thoughts on WODs is that they're a great idea and I absolutely enjoy them. They're a great way to really test your programming skills and to strengthen them. Although it may be stressful at times since you're up against the clock, my theory is that the stress is actually what makes this effective (which is why people remember high-stress situations). Anyway, I really like them and I wish more of my other classes implemented WODs into their curriculum.
+Here's another great question to think about: [Should I use spaces after if-else statements?](http://stackoverflow.com/questions/4368055/coding-style-advice-rationales-for-placing-spaces-in-control-statements-with-c)
+
+```c
+// No space
+if(condition){
+  stuff;
+}else{
+  other stuff;
+}
+
+// With spaces
+if (condition) {
+  stuff;
+} else {
+  other stuff;
+}
+```
+
+I think the second one with spaces is better. I hope you see the importance in questions like the above two. Now, before you start accusing me of caring about how my code looks more than what it does, let me say this: you're *half* right.

@@ -33,7 +33,7 @@ if (condition) {
 }
 ```
 
-In case you were wondering, I think the example with brackets is better. I had to think long and hard about that question because I used to write my if-else statements without brackets. However, I read in the comments that writing if-else statements without brackets could lead to bugs in the code, I made the change. In case you're wondering why you'd want to explicitly use brackets even though you don't need to, it's because sometimes you'll add in another line of code after your initial "stuff" without checking to see if it's actually a part of the if-else statement.
+In case you were wondering, I think the example with brackets is better. I had to think long and hard about that question because I used to write my if-else statements without brackets. However, I read in the comments that writing if-else statements without brackets could lead to bugs in the code, so I made the change. In case you're wondering why you'd want to explicitly use brackets even though you don't need to, it's because sometimes you'll add in another line of code after your initial "stuff" without checking to see if it's actually a part of the if-else statement.
 
 Here's another interesting question (IMO) to think about: [Should I use spaces after if-else statements?](http://stackoverflow.com/questions/4368055/coding-style-advice-rationales-for-placing-spaces-in-control-statements-with-c)
 

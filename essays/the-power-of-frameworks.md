@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Necessity of Standards
+title: The Power of Frameworks
 date: 2017-02-09
 labels:
   - Coding Standards

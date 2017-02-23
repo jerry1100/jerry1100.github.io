@@ -16,13 +16,11 @@ About two or three years ago, I wanted to learn web development. I don't remembe
 ### Bare HTML
 My first steps to learning how to develop for the web involved *just* HTML. I remember creating pages with very square-ish layouts and boxy elements, similar to the websites you'd see back in the early 2000s - as well as the websites for some current faculty members :^).
 
-<div class="ui compact raised segment">
-  <div class="ui fluid image">
-    <div class="ui black ribbon label">
-      <i class="hotel icon"></i> Hotel
-    </div>
-    <img src="../images/ee160-website.png">
+<div class="ui medium image">
+  <div class="ui black ribbon label">
+    <i class="hotel icon"></i> Hotel
   </div>
+  <img src="../images/ee160-website.png">
 </div>
 
 

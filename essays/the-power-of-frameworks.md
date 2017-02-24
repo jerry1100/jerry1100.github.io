@@ -20,7 +20,7 @@ My first steps to learning web development involved *just* HTML. I downloaded an
   <div class="ui black top left attached label">
     Apple's website in the late 1990s
   </div>
-  <img class="ui big image" src="../images/apple-old-website.png">
+  <img class="ui big image" src="../images/apple-old-website.jpg">
 </div>
 
 I would use inline styles for all my HTML elements, which worked fine for simple layouts. However, when I tried to make more complex layouts, things got **real** messy. It also didn't help that I was using *tables* for my layout (we all did at one point...right?). Anyway, I knew I needed an upgrade, and that upgrade was CSS.

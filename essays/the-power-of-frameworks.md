@@ -50,7 +50,7 @@ In Bootstrap, you would need something like:
 
 In Semantic it would be: 
 ```
-`<button class="ui large primary button">Click</button>`
+  <button class="ui large primary button">Click</button>
 ```
 
 Notice the difference? With Semantic, the styling reads almost like English. This makes styling somewhat intuitive and makes it easier to remember and use the different classes. This is one of the main reasons why Semantic is such a powerful tool.

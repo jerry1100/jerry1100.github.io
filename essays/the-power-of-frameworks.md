@@ -35,10 +35,10 @@ Fast forward about a year (I was busy), I was tasked to build a webpage as part 
 ## Semantic UI to the rescue
 Over these past few days, I explored Semantic UI, a development framework that promises to make websites both prettier and easier to design. After using it for about a week on several small projects, I believe it achieves just that. I am definitely going to incorporate Semantic in my future web-based projects, here's why:
 
-## Way faster than just HTML and CSS
+### Way faster than just HTML and CSS
 With Semantic, I was able to recreate a modern and responsive website in less than a day. I encourage you to [check out the repository](https://github.com/jerry1100/asus_replica) and see the comparison for yourself. Something like that, with just HTML and CSS, would've taken me at least a month, possibly even longer.
 
-## Styling is intuitive
+### Styling is intuitive
 One thing I really like about Semantic is that class names have meaning: there is a semantic component to them (hence the name Semantic). Here's an example comparing Semantic and Twitter Bootstrap (another popular framework). Let's say you wanted to add a large primary button like so:
 
 <button class="ui large primary button">Click</button>

@@ -40,5 +40,7 @@ With Semantic, I was able to recreate a modern and responsive website in less th
 
 ## Styling is intuitive
 One thing I really like about Semantic is that class names have meaning: there is a semantic component to them (hence the name Semantic). Here's an example comparing Semantic and Twitter Bootstrap (another popular framework). Let's say you wanted to add a large primary button as shown below:
-<button class="large primary button">
-In Bootstrap, you would need something like: `<button class="btn btn-primary btn-lg">`. In Semantic it would be: `<button class="large primary button">`. Notice the difference? With Semantic, the styling reads almost like English. This makes styling somewhat intuitive and makes it easier to remember and use the different classes.
+
+<button class="ui large primary button">Click</button>
+
+In Bootstrap, you would need something like: `<button class="btn btn-primary btn-lg">Click</button>`. In Semantic it would be: `<button class="ui large primary button">Click</button>`. Notice the difference? With Semantic, the styling reads almost like English. This makes styling somewhat intuitive and makes it easier to remember and use the different classes.

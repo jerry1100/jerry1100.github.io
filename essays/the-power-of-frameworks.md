@@ -39,7 +39,7 @@ Over these past few days, I explored Semantic UI, a development framework that p
 With Semantic, I was able to recreate a modern and responsive website in less than a day. I encourage you to [check out the repository](https://github.com/jerry1100/asus_replica) and see the comparison for yourself. Something like that, with just HTML and CSS, would've taken me at least a month, possibly even longer.
 
 ## Styling is intuitive
-One thing I really like about Semantic is that class names have meaning: there is a semantic component to them (hence the name Semantic). Here's an example comparing Semantic and Twitter Bootstrap (another popular framework). Let's say you wanted to add a large primary button as shown below:
+One thing I really like about Semantic is that class names have meaning: there is a semantic component to them (hence the name Semantic). Here's an example comparing Semantic and Twitter Bootstrap (another popular framework). Let's say you wanted to add a large primary button like so:
 
 <button class="ui large primary button">Click</button>
 
@@ -47,6 +47,7 @@ In Bootstrap, you would need something like:
 <div class="ui raised compact segment">
 
   `<button class="btn btn-primary btn-lg">Click</button>`
+
 </div>. 
 
 In Semantic it would be: 

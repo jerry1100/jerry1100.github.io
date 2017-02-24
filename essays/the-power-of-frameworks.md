@@ -50,7 +50,6 @@ In Bootstrap, you would need something like:
 ```
 
 </div>
-
 In Semantic it would be: 
 <div class="ui raised compact segment" markdown="1">
 ```html

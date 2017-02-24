@@ -44,11 +44,13 @@ One thing I really like about Semantic is that class names have meaning: there i
 <button class="ui large primary button">Click</button>
 
 In Bootstrap, you would need something like:
-<code class="ui raised compact segment highlighter-rouge">
+```
   <button class="btn btn-primary btn-lg">Click</button>
-</code>
+```
 
 In Semantic it would be: 
+```
 `<button class="ui large primary button">Click</button>`
+```
 
 Notice the difference? With Semantic, the styling reads almost like English. This makes styling somewhat intuitive and makes it easier to remember and use the different classes. This is one of the main reasons why Semantic is such a powerful tool.

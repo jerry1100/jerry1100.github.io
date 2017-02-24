@@ -24,7 +24,9 @@ My first steps to learning web development involved *just* HTML. I downloaded an
 </div>
 
 <div class="ui raised compact segment">
-  <a class="ui black ribbon label">Apple's website in the late 1990s</a>
+  <div class="ui blue ribbon label">
+    Apple's website in the late 1990s
+  </div>
   <img class="ui image" src="../images/apple-old-website.jpg">
 </div>
 

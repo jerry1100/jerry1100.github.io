@@ -44,9 +44,12 @@ One thing I really like about Semantic is that class names have meaning: there i
 <button class="ui large primary button">Click</button>
 
 In Bootstrap, you would need something like:
+<div class="ui raised compact segment" markdown="1">
+
 ```html
   <button class="btn btn-primary btn-lg">Click</button>
 ```
+</div>
 
 In Semantic it would be: 
 ```html

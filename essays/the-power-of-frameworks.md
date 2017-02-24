@@ -14,10 +14,10 @@ labels:
 About two or three years ago, I wanted to learn web development. I don't remember the reason, but I think it might have had something to do with me wanting to learn new languages. At the time, I knew **nothing** about web development, but after consulting with Google, it seemed like HTML was the way to start.
 
 ### Bare HTML
-My first steps to learning web development involved *just* HTML. I downloaded an app called "Learn HTML" which gave me a nice ov.I remember creating pages with very square-ish layouts and boxy elAfter that, lIr to the websites you'd see back in the early 2000s - as well as the websites for some current faculty members :^).
+My first steps to learning web development involved *just* HTML. I downloaded an app called "Learn HTML" which gave me enough information to start building simple websites. I remember creating pages with very square-ish layouts and boxy elements, similar to the websites you'd see back in the late 1990s/early 2000s.
 
 <div class="ui raised compact segment">
-  <div class="ui black top left attached label">
+  <div class="ui black top attached label">
     Apple's website in the late 1990s
   </div>
   <img class="ui image" src="../images/apple-old-website.jpg">

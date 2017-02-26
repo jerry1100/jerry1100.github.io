@@ -14,7 +14,7 @@ About two or three years ago, I wanted to learn web development. I don't remembe
 ## Bare HTML
 My first steps to learning web development involved *just* HTML. I went through a basic HTML tutorial which gave me enough information to start building simple websites. I remember creating pages with very square-ish layouts and boxy elements, similar to the websites you'd see back in the late 1990s.
 
-<div class="ui raised compact segment">
+<div class="ui compact segment">
   <a href="https://web.archive.org/web/19980509035420/http://www.apple.com/" target="_blank" title="View on WayBack Machine">
     <div class="ui large blue ribbon label">
       Apple's website in the late 1990s

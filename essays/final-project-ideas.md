@@ -22,4 +22,17 @@ The app will consist of several pages:
 
 * A login page where UH students and staff login with their credentials
 * A menu where you can either post (as a driver looking for riders) or search (as a rider searching for a driver)
-    * 
+
+# Use-cases
+Here are some use cases:
+
+* Drivers will input their latest departure time and a max radial distance that they're willing to pick up someone from, riders will input the time they need to get to school by, app will match drivers with users
+* On-demand scheduling for riders who missed their scheduled assignment, can look for upcoming scheduled assignments with seats left and with destinations near the user's address
+* Interface for easy commands such as "I'm on my way", "I won't make it, go without me", or an actual chat window for more detailed messages
+
+# Beyond the basics
+* Users can post their schedule, location, and app will generate possible matchings between drivers and riders
+    * Maybe 'search along the route' option where destination is not limited to just the driver's location radius
+* Integrate Google Map's traffic data to get real-time estimates on commute time
+* Calendar for the drivers and riders that can sync with their Google calendar to tell them who their driver is, when they're leaving, etc.
+* Payment system where the riders can contribute to the driver's gas/parking pass fees

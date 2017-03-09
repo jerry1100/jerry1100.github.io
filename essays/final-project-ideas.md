@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Final Project Ideas
-date: 2017-02-23
+date: 2017-03-09
 labels:
   - Software Engineering
   - Meteor

@@ -19,9 +19,7 @@ Our instructor, Dr. Johnson, warned us (the Windows users) that installation may
 ## The problem
 The first real issue came when I was halfway through a Meteor tutorial. At this point, I had my Meteor server running and everything was working fine. I was able to make changes to the html file and it showed the changes correctly. It was when I had to create a JavaScript file and rebuild my application, where I was greeted with the following error:
 
-<div class="ui compact segment">
-  <img class="ui large image" src="/images/windows-jscript-error.png">
-</div>
+<img class="ui large bordered image" src="/images/windows-jscript-error.png">
 
 Great. I knew it was only a matter of time, but it still would've been nice to be able to have gone through an entire installation and demo without having some kind of vague error.
 
@@ -30,9 +28,7 @@ I followed the traditional routes: Error message->Google->Forums->Back to Google
 
 Not an hour goes by and one of my classmates suggested another fix. He said the problem was associating the JavaScript file with Windows Script Host and that it would be solved by changing to association to IntelliJ. And so that's what I did:
 
-<div class="ui compact segment">
-  <img class="ui large image" src="/images/javascript-associate-intellij.png">
-</div>
+<img class="ui large image" src="/images/javascript-associate-intellij.png">
 
 Lo and behold, it works! Curious, I probed further and changed the file association to something different. Surprisingly it works with not only IntelliJ, but Chrome as well. So here's my theory: when you build Meteor, somewhere along the lines, it will try and run the JavaScript file with whatever program that's set to handle it. For some reason, Windows Script Host was throwing an error and didn't allow the build to finish. Setting this to IntelliJ or Chrome will fix this issue because it doesn't throw an error when Meteor tries to open the file with IntelliJ or Chrome.
 
@@ -49,9 +45,7 @@ What didn't work was the next step, which was to run meteor with a config file. 
 ## The solution
 It turned out that the hour-long download wasn't the end of it. After it was done downloading, it wanted to do more things (at this point I just let Meteor do its thing) so I just let it go. Whatever it was doing, it made my computer really hot and really loud. My CPU temperature was in the **high 80s** and my fans were blaring! I was ready for my computer to catch on fire.
 
-<div class="ui compact segment">
-  <img class="ui large image" src="/images/laptop-fire.jpg">
-</div>
+<img class="ui large image" src="/images/laptop-fire.jpg">
 
 Just joking. Although, I *was* pretty nervous, but continued to hope that Meteor would fix itself.
 

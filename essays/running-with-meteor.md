@@ -11,7 +11,7 @@ labels:
 ## Initial impressions
 My first impression of Meteor was that it was an all-in-one package. Meaning, you learn how to use Meteor, you learn it well, and you have everything you need to start building web applications. I like this because one of my biggest gripes with web development is having to choose what I use. With Meteor, I can focus on just Meteor without having to think about how to integrate something else with it.
 
-<img class="ui large image" src="../images/meteor-platform.png">
+<img class="ui bordered large image" src="../images/meteor-platform.png">
 
 Going over the Meteor tutorials, I got my feet wet with working with databases and templates. I was intrigued by how Meteor handles data. Instead of a traditional setup where only the server has access to the database and clients must request the server for data, Meteor sets up a database for the client *and* the server. This means that clients don't have to query the server and then wait for a response, because they have their own local database that they can query and get immediate results from. At this point, I saw the potential with Meteor and I was excited to start using it.
 

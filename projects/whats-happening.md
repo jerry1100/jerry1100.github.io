@@ -15,7 +15,7 @@ summary: A web application built using MeteorJS and SemanticUI, for the final pr
 ## Motivation
 For college students, finding events can be hard. Finding events that you're actually interested in, can be even harder. Here's an example.
 
-<img class="ui fluid image" src="../images/crowded-bulletin-board.jpg">
+<img class="ui large centered image" src="../images/crowded-bulletin-board.jpg">
 
 Try finding the flier for the film festival. It's not very obvious, is it?
 
@@ -23,11 +23,15 @@ The same goes for those looking to advertise their events. Having to compete aga
 
 ## Introduction
 
-<img class="ui fluid image" src="../images/whats-happening-landing.png">
+<img class="ui large centered image" src="../images/whats-happening-landing.png">
 
 What's Happening is a web application designed to solve the problems mentioned above. It aims to be a one-stop-shop for those looking to create an event and advertise it, or for those looking to find interesting events to attend.
 
-Here is the home page. The events are listed as cards.
+Here is the home page. The events are listed as cards, which users can click to bring up a more detailed view. Users have the ability to attend events, save events, and create events. On their profile page, users can view the events they have saved, are planning to attend, or own.
 
-<img class="ui fluid image" src="../images/whats-happening-home.png">
+<img class="ui large centered image" src="../images/whats-happening-home.png">
 
+## More information
+If you want to read more about our page, check out our [GitHub page](https://whats-happening-uhm.github.io/) and our [GitHub repo](https://github.com/whats-happening-uhm/whats-happening-uhm).
+
+Also, check out the other developers of this project: [Dylan Tokita](https://dtokita.github.io/) and [Glenn Galvizo](https://glennga.github.io/).

@@ -54,7 +54,10 @@
         "HTML",
         "PHP",
         "JavaScript",
-        "SQL"
+        "SQL",
+        "Bash",
+        "MeteorJS",
+        "SemanticUI"
       ]
     },
     {
@@ -63,7 +66,6 @@
       "keywords": [
         "Git",
         "Linux",
-        "Vim",
         "Android Studio",
         "Arduino IDE",
         "IntelliJ IDEA"
@@ -91,7 +93,7 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Teaching assistant for an introduction to programming class using C"
+        "Facilitating labs and grading assignments for an introduction to programming course in C"
       ]
     },
     {
@@ -102,8 +104,8 @@
       "endDate": "2016-08",
       "summary": "",
       "highlights": [
-        "Integrated blockchain technology with mesh networks to create a distributed supply chain with applications in reducing logistical costs for disaster-relief organizations",
-        "Assisted with developing a proof of concept in Java; implemented proof of work algorithm"
+        "Researched the potential for using blockchain and mesh networks in a distributed supply chain to reduce logistical costs for disaster relief organizations",
+        "Assisted with developing a proof of concept in Java; implemented proof of work algorithm for adding new blocks to the blockchain"
       ]
     },
     {
@@ -115,7 +117,7 @@
       "summary": "",
       "highlights": [
         "Product development engineering – scan team; tested die and collected shmoo plots; performed timing optimizations to reduce the time and cost of validating a unit",
-        "Developed a database viewer and uploader for .csv files using HTML, JavaScript, PHP, and SQL; implemented error checking on upload, significantly reducing the risk of bad data"
+        "Developed a database viewer and uploader for .csv files using HTML, JavaScript, PHP, and SQL; implemented features such as error checking on upload and file revision tracking"
       ]
     }
   ],

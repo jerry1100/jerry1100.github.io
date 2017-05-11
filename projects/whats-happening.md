@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/whats-happening-logo.png
+image: images/whats-happening-cover.png
 title: What's Happening
 permalink: projects/whats-happening
 date: 2017

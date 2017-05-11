@@ -15,7 +15,7 @@ summary: A web application built using MeteorJS and SemanticUI, for the final pr
 ## Motivation
 For college students, finding events can be hard. Finding events that you're actually interested in, can be even harder. Here's an example.
 
-<image class="ui fluid image" src="../images/crowded-bulletin-board.jpg">
+<img class="ui fluid image" src="../images/crowded-bulletin-board.jpg">
 
 Try finding the flier for the film festival. It's not very obvious, is it?
 
@@ -23,11 +23,11 @@ The same goes for those looking to advertise their events. Having to compete aga
 
 ## Introduction
 
+<img class="ui fluid image" src="../images/whats-happening-landing.png">
+
 What's Happening is a web application designed to solve the problems mentioned above. It aims to be a one-stop-shop for those looking to create an event and advertise it, or for those looking to find interesting events to attend.
 
-<image class="ui fluid image" src="../images/whats-happening-landing.png">
+Here is the home page. The events are listed as cards.
 
-Here is the home page. The events are listed as cards and users kkkkkkk
-
-<image class="ui fluid image" src="../images/whats-happening-home.png">
+<img class="ui fluid image" src="../images/whats-happening-home.png">
 

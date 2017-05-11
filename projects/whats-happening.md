@@ -40,7 +40,7 @@ The goals of this project were (if I remember them correctly):
 
 Now, looking back on these goals, I'd say that our team was successful in all three areas.
 
-We got a lot better with using Git and the number of `rm -rf` and then `git clone`s significantly dropped. Even though I had previous experience developing with Git, I learned a lot about using Git in a team environment, and to develop in a separate branch and then merge back into master.
+We got a lot better with using Git and our usage of `rm -rf` and then `git clone` significantly dropped. Even though I had previous experience developing with Git, I learned a lot about using Git in a team environment, and to develop in a separate branch and then merge back into master.
 
 Our efforts with MeteorJS and SemanticUI turned out pretty well (at least I think so). We created an aesthetically pleasing and functional web application that accomplished the original goals of the project--to have users view and create events. I worked on integrating the profile page with the collections and implementing the animations to switch between a user's own events, saved events, and attending events. I also worked on implementing the modals (the popups that appear when a card is clicked) as well as the ability to save and attend an event.
 

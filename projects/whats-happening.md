@@ -23,8 +23,8 @@ The same goes for those looking to advertise their events. Having to compete aga
 
 ## Introduction
 
-<image class="ui fluid image" src="../images/whats-happening-landing.jpg">
+<image class="ui fluid image" src="../images/whats-happening-landing.png">
 
 What's Happening is a web application designed to solve the problems mentioned above. It aims to be a one-stop-shop for those looking to create an event and advertise it, or for those looking to find interesting events to attend.
 
-<image class="ui fluid image" src="../images/whats-happening-home.jpg">
+<image class="ui fluid image" src="../images/whats-happening-home.png">

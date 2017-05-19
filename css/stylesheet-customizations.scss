@@ -5,13 +5,6 @@
 // Put your custom CSS here if you want to override the defaults.
 // Here are some common customizations for colors
 
-// Mobile browsers
-@media only screen and (max-width: 504) {
-  .row.pdf-viewer {
-    background-color: red;
-  }
-}
-
 // Customize the menubar color
 .ui.menu {
   //background: $background-start;
@@ -45,4 +38,11 @@ code.highlighter-rouge {
 }
 .mail.icon.icon-color:hover {
   color: #d94a38;
+}
+
+// Mobile browsers
+@media only screen and (max-width: 504px) {
+  .row.pdf-viewer {
+    background-color: red;
+  }
 }

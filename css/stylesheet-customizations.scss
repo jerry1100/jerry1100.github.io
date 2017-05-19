@@ -40,9 +40,14 @@ code.highlighter-rouge {
   color: #d94a38;
 }
 
-// Mobile browsers
+// Hide pdf-viewer for mobile browsers and show message
 @media only screen and (max-width: 504px) {
   .row.pdf-viewer {
-    background-color: red;
+    display: none;
+  }
+}
+@media only screen and (max-width: 504px) {
+  .row.pdf-message {
+    display: initial;
   }
 }

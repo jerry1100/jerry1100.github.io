@@ -1,7 +1,3 @@
----
-# Provide front matter so Jekyll processes this file as SASS.
----
-
 // Put your custom CSS here if you want to override the defaults.
 // Here are some common customizations for colors
 
@@ -31,11 +27,6 @@ code.highlighter-rouge {
   padding: 0 5px;
 }
 
-// Customize the home page icon colors
-.icon-color {
-  color: silver;
-}
-
 // Homepage icon customizations
 .github.icon.icon-color:hover {
   color: #800080;
@@ -49,6 +40,5 @@ code.highlighter-rouge {
 
 // Center homempage grid
 .ui.middle.aligned.grid {
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
 }

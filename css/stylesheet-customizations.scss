@@ -1,3 +1,7 @@
+---
+# Provide front matter so Jekyll processes this file as SASS.
+---
+
 // Put your custom CSS here if you want to override the defaults.
 // Here are some common customizations for colors
 
@@ -25,20 +29,4 @@ pre.highlight {
 code.highlighter-rouge {
   background: rgb(234, 235, 236);
   padding: 0 5px;
-}
-
-// Homepage icon customizations
-.github.icon.icon-color:hover {
-  color: #800080;
-}
-.linkedin.icon.icon-color:hover {
-  color: #0077b5;
-}
-.mail.icon.icon-color:hover {
-  color: #d94a38;
-}
-
-// Center homempage grid
-.ui.middle.aligned.grid {
-  margin: auto;
 }

@@ -1,0 +1,26 @@
+<!-- Like theme-projects-builtin-1, but uses project-card-2.html (i.e. entire card is a link). -->
+
+<div style="padding-top: 20px" class="ui container ">
+
+  <div class="ui stackable centered four cards">
+    {% assign project_pages = site.pages | where: "type", "project" | sort: "date" | reverse %}
+    {% for page in project_pages %}
+      {% unless page.draft %}
+        {% include project-card-1a.html page=page %}
+      {% endunless %}
+    {% endfor %}
+  </div>
+</div>
+
+<script>
+  // Google analytics
+  (function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+      (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date(); a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+  ga('create', 'UA-99737008-1', 'auto');
+  ga('send', 'pageview');
+</script>

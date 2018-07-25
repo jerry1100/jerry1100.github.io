@@ -18,14 +18,11 @@
         <div class="meta">
           <span class="date">{{ site.data.bio.basics.label }}</span>
         </div>
-        <div class="left aligned description">
-          {{ site.data.bio.basics.summary }}
+        <div class="center aligned description">
+          {% include home-network-links.html %}
         </div>
       </div>
       <div class="center aligned extra content">
-        {% include home-network-links.html %}
-      </div>
-      <div class="center aligned content">
         <a href="{{ site.baseurl}}/projects/">
           <button class="ui basic button">Projects ({{ num_projects }})</button>
         </a>

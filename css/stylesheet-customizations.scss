@@ -39,15 +39,3 @@ code.highlighter-rouge {
 .mail.icon.icon-color:hover {
   color: #d94a38;
 }
-
-// Hide pdf-viewer for mobile browsers and show message
-@media only screen and (max-width: 600px) {
-  .row.pdf-viewer {
-    display: none !important;
-  }
-}
-@media only screen and (max-width: 600px) {
-  .row.pdf-message {
-    display: initial !important;
-  }
-}

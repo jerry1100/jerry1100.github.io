@@ -16,6 +16,6 @@
     {% if num_essays > 0 %}
     <a href="{{ site.baseurl }}/essays" class=" {% if include.active == "essays" %} active {% endif %} item">Essays ({{ num_essays }})</a>
     {% endif %}
-    <a href="{{ site.baseurl }}/bio" class=" {% if include.active == "bio" %} active {% endif %} item">{{ site.bio-page-label }}</a>
+    <a href="{{ site.baseurl }}/{{ site.resume-path }}" class=" {% if include.active == "bio" %} active {% endif %} item">{{ site.bio-page-label }}</a>
   </nav>
 </div>

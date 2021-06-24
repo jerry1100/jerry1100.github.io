@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/wind-sensor.png
 title: Wind Sensor
-projecturl: https://wiki.scel-hawaii.org/lib/exe/fetch.php?media=wind_sensor:wind_sensor_final_pres_s17.pdf
+projecturl: https://jerrywu.dev/wind_sensor_final_pres_s17.pdf
 date: 2016
 labels:
   - Arduino
